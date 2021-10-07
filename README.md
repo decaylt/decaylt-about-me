@@ -1,0 +1,2 @@
+- 👋 Hello! I’m @starydev, a professional bot developer and I’m currently learning about Java and TypeScript.
+- 📫 Get in touch with me, here's my discord: stary#1285
