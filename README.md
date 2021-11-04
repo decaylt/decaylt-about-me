@@ -1,2 +1,2 @@
 - 👋 Hello! I’m Decay, a professional bot developer and I’m currently learning about Java and TypeScript.
-- 📫 Get in touch with me, here's my discord: Decay#1285
+- 📫 Get in touch with me, here's my discord: Decay#0153
